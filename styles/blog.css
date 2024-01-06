@@ -1,0 +1,33 @@
+header>nav>ul>li{
+display: inline;
+margin-right: 15px;
+text-decoration-line: underline;
+/* background-color:rgba(156, 86, 235, 0.887); */
+}
+
+footer{
+    align-items: center;
+    text-align:center;
+    font-weight:lighter;
+
+}
+article>header{
+ color: #000;
+ text-align:right;
+
+}
+h1{background-color:  cornflowerblue ;
+    width: fit-content;
+
+}
+figure>img{ border:  tomato;
+width:400px ;
+display: inline;
+}
+figcaption{
+    background-color:rgba(17, 98, 135, 0.469);
+    width:fit-content ;
+}
+
+
+
